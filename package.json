@@ -1,0 +1,19 @@
+{
+  "name": "game-test",
+  "version": "0.1.0",
+  "description": "Simple Node.js Express sandbox for testing game ideas.",
+  "license": "Apache-2.0",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Zaiah11/game-test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "~6.1.0",
+    "request": "^2.88.0"
+  }
+}
